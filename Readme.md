@@ -1,6 +1,6 @@
 # Using React at CodePen
 
-Currently, [CodePen](http://codepen.io) does not support React out of the box. Use the shim JS file from this repo to enable React and Babel ES6/7 and JSX transformations to your pens.
+Currently, [CodePen](http://codepen.io) does not support [React](http://facebook.github.io/react/) out of the box. Use the shim JS file from this repo to enable React 0.13 with Babel ES6/7 and JSX transformations to your pens.
 
 ## Setup
 
@@ -12,9 +12,13 @@ https://cdn.rawgit.com/bradleyboy/codepen-react/master/dist/codepen-react-0.1.0.
 
 That's it!
 
+## Demo
+
+See [this pen](http://codepen.io/bradleyboy/pen/OPBpGw) for a simple demo. For a more complex example, see [ChatPen](http://codepen.io/bradleyboy/pen/zxLaoP).
+
 ## Tips and Troubleshooting
 
-1. Open *Pen Settings* and disable *Auto Update Preview* when working with your Pen's JS. The transformations are intensive operations, so it's better to do them manually with *Run*.
+1. Open **Pen Settings** and disable **Auto Update Preview** when working with your Pen's JS, particularly as your pen grows in size. The transformations are intensive operations, so it's better to do them manually with **Run**.
 
 2. Be sure **Tracuer** is not enabled in your pen, as it conflicts with the Babel transformation.
 
