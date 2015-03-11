@@ -1,0 +1,16 @@
+{
+  "name": "codepen-react",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Daily",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "babel": "^4.7.8",
+    "buildify": "^0.4.0",
+    "react": "^0.13.0"
+  }
+}
