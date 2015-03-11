@@ -7,7 +7,7 @@ Currently, [CodePen](http://codepen.io) does not support React out of the box. U
 When creating your new pen, open up the JS settings and add this external dependency:
 
 ```
-TODO
+https://cdn.rawgit.com/bradleyboy/codepen-react/master/dist/codepen-react-0.1.0.js
 ```
 
 That's it!
