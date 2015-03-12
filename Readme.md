@@ -20,7 +20,7 @@ See [this pen](http://codepen.io/bradleyboy/pen/OPBpGw) for a simple demo. For a
 
 1. Open **Pen Settings** and disable **Auto Update Preview** when working with your Pen's JS, particularly as your pen grows in size. The transformations are intensive operations, so it's better to do them manually with **Run**.
 
-2. Be sure **Tracuer** is not enabled in your pen, as it conflicts with the Babel transformation.
+2. Be sure **Traceur** is not enabled in your pen, as it conflicts with the Babel transformation.
 
 ## Changelog
 
