@@ -24,4 +24,6 @@ See [this pen](http://codepen.io/bradleyboy/pen/OPBpGw) for a simple demo. For a
 
 ## Changelog
 
-**0.1.0** - Initial release with React 0.13.0 and Babel 4.4.7.
+**0.1.1** - Initial release with React 0.13.1 and Babel 4.7.16.
+
+**0.1.0** - Initial release with React 0.13.0 and Babel 4.7.7.
