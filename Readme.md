@@ -7,7 +7,7 @@ Currently, [CodePen](http://codepen.io) does not support [React](http://facebook
 When creating your new pen, open up the JS settings and add this external dependency:
 
 ```
-https://cdn.rawgit.com/bradleyboy/codepen-react/master/dist/codepen-react-0.1.0.js
+https://cdn.rawgit.com/bradleyboy/codepen-react/master/dist/codepen-react-0.1.1.js
 ```
 
 That's it!
